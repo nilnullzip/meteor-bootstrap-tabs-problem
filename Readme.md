@@ -3,6 +3,7 @@
 When operating correctly, the URL in the address bar should follow the tab being selected. When operating incorrectly, the URL does not change at all. The difference between the demo working or not depends on the .meteor/packages file.
 
 With this packages file, the demo works:
+
 	standard-app-packages
 	preserve-inputs
 	iron-router
@@ -13,6 +14,7 @@ With this packages file, the demo works:
 	underscore
 
 With this packages file, the demo works:
+
 	standard-app-packages
 	preserve-inputs
 	bootstrap
