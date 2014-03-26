@@ -13,7 +13,7 @@ With this packages file, the demo works:
 	showdown
 	underscore
 
-With this packages file, the demo works:
+With this packages file, the demo fails:
 
 	standard-app-packages
 	preserve-inputs
